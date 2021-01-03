@@ -3,6 +3,7 @@
 <p>Hello Developers I'm Ferhat SEZER</p>
 <p>A little game I developed with c sharp sfml at university</p>
 <p>Is a two player game</p>
+<p>Open Source Code 2D Gaming</p>
 
 
 <h3><a href="https://youtu.be/28gw71xu2KA" target="_blank">YouTube Video Link</a></h3>
