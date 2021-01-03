@@ -1,0 +1,64 @@
+C:\Users\admin\Desktop\Oyun2016\Oyun2016\bin\Debug\Oyun2016.exe
+C:\Users\admin\Desktop\Oyun2016\Oyun2016\bin\Debug\Oyun2016.pdb
+C:\Users\admin\Desktop\Oyun2016\Oyun2016\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Oyun2016\Oyun2016\obj\x86\Debug\Oyun2016.Properties.Resources.resources
+C:\Users\admin\Desktop\Oyun2016\Oyun2016\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\Oyun2016\Oyun2016\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Oyun2016\Oyun2016\obj\x86\Debug\Oyun2016.exe
+C:\Users\admin\Desktop\Oyun2016\Oyun2016\obj\x86\Debug\Oyun2016.pdb
+C:\Users\admin\Desktop\Ders\_GP2Oyun\Oyun2016\Oyun2016\bin\Debug\Oyun2016.exe
+C:\Users\admin\Desktop\Ders\_GP2Oyun\Oyun2016\Oyun2016\bin\Debug\Oyun2016.pdb
+C:\Users\admin\Desktop\Ders\_GP2Oyun\Oyun2016\Oyun2016\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Ders\_GP2Oyun\Oyun2016\Oyun2016\obj\x86\Debug\Oyun2016.Properties.Resources.resources
+C:\Users\admin\Desktop\Ders\_GP2Oyun\Oyun2016\Oyun2016\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\Ders\_GP2Oyun\Oyun2016\Oyun2016\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Ders\_GP2Oyun\Oyun2016\Oyun2016\obj\x86\Debug\Oyun2016.exe
+C:\Users\admin\Desktop\Ders\_GP2Oyun\Oyun2016\Oyun2016\obj\x86\Debug\Oyun2016.pdb
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\bin\Debug\Oyun2016.exe
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\bin\Debug\Oyun2016.pdb
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\bin\Debug\sfmlnet-system-2.dll
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\bin\Debug\sfmlnet-window-2.dll
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\obj\x86\Debug\Oyun2016.Properties.Resources.resources
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\obj\x86\Debug\Oyun2016.exe
+C:\Users\admin\Desktop\Oyun2016 (Taslak, Ses)\Oyun2016\obj\x86\Debug\Oyun2016.pdb
+C:\Users\admin\Desktop\ntp1SFML\Oyun2016\bin\Debug\Oyun2016.exe
+C:\Users\admin\Desktop\ntp1SFML\Oyun2016\bin\Debug\Oyun2016.pdb
+C:\Users\admin\Desktop\ntp1SFML\Oyun2016\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.Properties.Resources.resources
+C:\Users\admin\Desktop\ntp1SFML\Oyun2016\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\ntp1SFML\Oyun2016\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.exe
+C:\Users\admin\Desktop\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.pdb
+C:\Users\Admin\Desktop\FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\bin\Debug\Oyun2016.exe
+C:\Users\Admin\Desktop\FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\bin\Debug\Oyun2016.pdb
+C:\Users\Admin\Desktop\FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.Properties.Resources.resources
+C:\Users\Admin\Desktop\FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.exe
+C:\Users\Admin\Desktop\FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.pdb
+C:\Users\Admin\Desktop\1FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\bin\Debug\Oyun2016.exe
+C:\Users\Admin\Desktop\1FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\bin\Debug\Oyun2016.pdb
+C:\Users\Admin\Desktop\1FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\1FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.Properties.Resources.resources
+C:\Users\Admin\Desktop\1FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\1FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.exe
+C:\Users\Admin\Desktop\1FerhatSEZER\ntp1SFML\ntp1SFML\Oyun2016\obj\x86\Debug\Oyun2016.pdb
+C:\Users\Admin\Desktop\ntp1SFML\Tank\Tank\bin\Debug\Oyun2016.exe
+C:\Users\Admin\Desktop\ntp1SFML\Tank\Tank\bin\Debug\Oyun2016.pdb
+C:\Users\Admin\Desktop\ntp1SFML\Tank\Tank\obj\x86\Debug\Tank.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ntp1SFML\Tank\Tank\obj\x86\Debug\Oyun2016.Properties.Resources.resources
+C:\Users\Admin\Desktop\ntp1SFML\Tank\Tank\obj\x86\Debug\Tank.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ntp1SFML\Tank\Tank\obj\x86\Debug\Oyun2016.exe
+C:\Users\Admin\Desktop\ntp1SFML\Tank\Tank\obj\x86\Debug\Oyun2016.pdb
+C:\Users\Admin\Desktop\Tank\Tank\Tank\bin\Debug\Tank.exe
+C:\Users\Admin\Desktop\Tank\Tank\Tank\bin\Debug\Tank.pdb
+C:\Users\Admin\Desktop\Tank\Tank\Tank\obj\x86\Debug\Tank.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Tank\Tank\Tank\obj\x86\Debug\Tank.Properties.Resources.resources
+C:\Users\Admin\Desktop\Tank\Tank\Tank\obj\x86\Debug\Tank.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Tank\Tank\Tank\obj\x86\Debug\Tank.exe
+C:\Users\Admin\Desktop\Tank\Tank\Tank\obj\x86\Debug\Tank.pdb
